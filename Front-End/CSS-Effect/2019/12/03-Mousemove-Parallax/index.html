@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Mousemove Parallax</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+
+<body>
+    <section>
+        <h2 class="layer">Parallax</h2>
+        <div class="textBox">
+            <h2 class="layer">Parallax</h2>
+        </div>
+    </section>
+
+    <script type="text/javascript">
+        document.addEventListener('mousemove', parallax);
+        function parallax(e){
+            this.querySelectorAll('.layer').forEach(layer => {
+                let x = (window.innerWidth - e.pageX * 10) / 100;
+                let y = (window.innerHeight - e.pageY * 10) / 100;
+                layer.style.transform = `translate(${x}px, ${y}px)`;
+            })
+        }
+    </script>
+</body>
+
+</html>
