@@ -18,6 +18,8 @@ This repository contains the code I have learned from Youtube!
 
 * [ [Live demo](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2019/12/05-Contact-Us-Form/index.html) ] [ 2019-12-05 ] [CSS3 Contact Us Form Design with Floating Placeholder | Responsive Design](https://github.com/busyboxs/Learn-To-Use/tree/master/Front-End/CSS-Effect/2019/12/05-Contact-Us-Form) - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
+* [ [Live demo](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2019/12/06-Layered-Image-Parallax-Effect/index.html) ] [ 2019-12-06 ] [Layered Image Parallax Effect on Mousemove Using Vanilla Javascript & CSS3](https://github.com/busyboxs/Learn-To-Use/tree/master/Front-End/CSS-Effect/2019/12/06-Layered-Image-Parallax-Effect) - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+
 * [ [Live demo](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2019/12/08-Glowing-Gradient-Border-Card-UI-Design/index.html) ] [ 2019-12-08 ] [CSS3 Glowing Gradient Border Card UI Design | Html CSS](https://github.com/busyboxs/Learn-To-Use/tree/master/Front-End/CSS-Effect/2019/12/08-Glowing-Gradient-Border-Card-UI-Design) - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
 * [ [Live demo](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2019/12/09-Water-Wave-Text-Animation-Effects/index.html) ] [ 2019-12-09 ] [Pure CSS3 Water Wave Text Animation Effects Using CSS Clip-path](https://github.com/busyboxs/Learn-To-Use/tree/master/Front-End/CSS-Effect/2019/12/09-Water-Wave-Text-Animation-Effects) - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)

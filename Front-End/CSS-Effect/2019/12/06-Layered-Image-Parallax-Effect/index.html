@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./css/style.css">
+    <title>Layered Image Mousemove Effects</title>
+</head>
+<body>
+    <div class="container">
+        <img src="images/img.jpg" class="layer" data-speed="40">
+        <img src="images/img.jpg" class="layer" data-speed="30">
+        <img src="images/img.jpg" class="layer" data-speed="20">
+        <img src="images/img.jpg" class="layer" data-speed="10">
+    </div>
+
+    <script type="text/javascript">
+    document.addEventListener('mousemove', parallex);
+    function parallex(e) {
+        this.querySelectorAll('.layer').forEach(layer => {
+            var speed = layer.getAttribute('data-speed');
+            var x = (window.innerWidth - e.pageX * speed) / 250;
+            var y = (window.innerWidth - e.pageX * speed) / 250;
+
+            layer.style.transform = `translate(${-x}px) translateY(${y}px)`
+        })
+    }
+    </script>
+</body>
+</html>
