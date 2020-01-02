@@ -26,4 +26,6 @@ This repository contains the code I have learned from Youtube!
 
 * [ [Live demo](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2019/12/15-Card-Hover-Effects/index.html) ] [ 2019-12-15 ] [CSS Responsive Card Hover Effects | Html5 & CSS3](https://github.com/busyboxs/Learn-To-Use/tree/master/Front-End/CSS-Effect/2019/12/15-Card-Hover-Effects) - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
+* [ [Live demo](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2019/12/18-Image-Comparision-Slider/index.html) ] [ 2019-12-15 ] [2-Minutes Tutorial | Image Comparision Slider Using CSS3 And Vanilla Javascript](https://github.com/busyboxs/Learn-To-Use/tree/master/Front-End/CSS-Effect/2019/12/18-Image-Comparision-Slider) - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+
 * [ [Live demo](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2019/12/28-3D-Editable-Text/index.html) ] [ 2019-12-28 ] [3D Editable Text Using Html5 & CSS3 | CSS Typography](https://github.com/busyboxs/Learn-To-Use/tree/master/Front-End/CSS-Effect/2019/12/28-3D-Editable-Text) - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
