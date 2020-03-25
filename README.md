@@ -32,4 +32,4 @@ This repository contains the code I have learned from Youtube!
 
 ----
 
-* [ [Live demo](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2020/03/22-Ripple-Animation-effects/index.html) ] [ 2020-03-22 ] [Quick CSS Ripple Animation effects Tutorial For Beginners](https://github.com/busyboxs/Learn-To-Use/Front-End/CSS-Effect/2020/03/22-Ripple-Animation-effects) - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+* [ [Live demo](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2020/03/22-Ripple-Animation-effects/index.html) ] [ 2020-03-22 ] [Quick CSS Ripple Animation effects Tutorial For Beginners](https://github.com/busyboxs/Learn-To-Use/tree/master/Front-End/CSS-Effect/2020/03/22-Ripple-Animation-effects) - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
