@@ -30,4 +30,6 @@ This repository contains the code I have learned from Youtube!
 
 * [ [Live demo](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2019/12/28-3D-Editable-Text/index.html) ] [ 2019-12-28 ] [3D Editable Text Using Html5 & CSS3 | CSS Typography](https://github.com/busyboxs/Learn-To-Use/tree/master/Front-End/CSS-Effect/2019/12/28-3D-Editable-Text) - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
-* [ [Live demo](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2020/03/22-Ripple-Animation-effects/index.html) ] [ 2019-03-22 ] [Quick CSS Ripple Animation effects Tutorial For Beginners](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2020/03/22-Ripple-Animation-effects) - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+----
+
+* [ [Live demo](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2020/03/22-Ripple-Animation-effects/index.html) ] [ 2020-03-22 ] [Quick CSS Ripple Animation effects Tutorial For Beginners](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2020/03/22-Ripple-Animation-effects) - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
