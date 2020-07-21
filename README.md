@@ -37,3 +37,5 @@ This repository contains the code I have learned from Youtube!
 * [ [Live demo](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2020/04/11HoverEffects/index.html) ] [ 2020-04-11 ] [CSS Animation & Hover Effects](https://github.com/busyboxs/Learn-To-Use/tree/master/Front-End/CSS-Effect/2020/04/11HoverEffects) - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
 
 * [ [Live demo](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2020/05/05-CSS-Soft-Box-Shadow-Effects/index.html) ] [ 2020-05-05 ] [CSS Soft Box Shadow Effects | Html5 & CSS3 Neumorphism Shadow](https://github.com/busyboxs/Learn-To-Use/tree/master/Front-End/CSS-Effect/2020/05/05-CSS-Soft-Box-Shadow-Effects) - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+
+* [ [Live demo](https://yangshun.win/Learn-To-Use/Front-End/CSS-Effect/2020/07/19ResponsiveCARDUIDesign/index.html) ] [ 2020-07-19 ] [CSS Responsive CARD UI Design & Hover Effects | Html5 CSS3](https://github.com/busyboxs/Learn-To-Use/tree/master/Front-End/CSS-Effect/2020/07/19ResponsiveCARDUIDesign) - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
